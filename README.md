@@ -1,0 +1,3 @@
+
+
+This code is written in the Terraform language, and it is used to create and configure a non-production Azure environment. It includes a resource group, app service plan, app service, app service scale set, custom hostname binding, SQL server, and SQL database. Each resource is given a name, location, and a set of properties that are specific to that resource. The code also includes a provider block, which sets the version of AzureRM to be used and provides the tenant ID and subscription ID.
